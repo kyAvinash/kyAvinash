@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about Full Stack Development, Open 
 - 🌱 Currently Learning: JavaScript, HTML, CSS (Full Stack Development)
 - 👀 Interests: Full Stack Development, Open Source, Tech Enthusiast
 - 💞️ Looking to Collaborate On: Exciting open-source projects and innovative tech ventures
-- 📫 How to Reach Me: You can reach me at ky0avinash@gmail.com or ping me on XTwitter https://twitter.com/vinash_ydv?t=vJNlFypBL6T_ds8FDpzorQ&s=09 .
+- 📫 How to Reach Me: You can reach me at ky0avinash@gmail.com
 
 Feel free to explore my repositories and projects. Let's connect and code together! 🤝💻
 
